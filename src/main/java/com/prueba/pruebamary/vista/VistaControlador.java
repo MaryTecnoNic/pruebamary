@@ -1,4 +1,4 @@
-package com.prueba.pruebamary;
+package com.prueba.pruebamary.vista;
 
 import com.prueba.pruebamary.dto.Marylu;
 import com.prueba.pruebamary.service.MaryluService;
